@@ -1,0 +1,86 @@
+.header1 {
+  text-align: center;
+  display: block;
+  color: black;
+  text-decoration: none;
+}
+.flbheader1 {
+  background-color: white;
+  border: 3px solid black;
+  padding: 17px;
+  border-radius: 15px 15px 15px 15px;
+}
+.Menu {
+  list-style-type: fixed;
+  margin: 9px;
+  padding: 10px 0px 0px;
+  height: 40px;
+  overflow: hidden;
+  background-color: white;
+  text-align: center;
+  border-radius: 15px 15px 15px 15px;
+}
+.Menu a {
+  color: black;
+  padding: 7px;
+  text-decoration: none;
+  border-radius: 15px 15px 15px 15px;
+}
+.Menu a:hover {
+  background-color: black;
+  color: white;
+}
+.menucontainer {
+  border-radius: 15px 15px 15px 15px;
+  border: 1px black;
+}
+h2 {
+  text-align: center;
+}
+.container {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: right;
+}
+.container label {
+  font-size: 25px;
+  text-align: center;
+  margin-right: -600px;
+}
+.container input {
+  float: right;
+  margin-right: 600px;
+}
+.btn_Submit {
+  float: right;
+  margin-right: 750px;
+  cursor: pointer;
+}
+/* .btn_clear {
+  float: right;
+  margin-right: 800px;
+} */
+
+.footer {
+  list-style-type: fixed;
+  /* margin: 9px; */
+  padding: 20px 0px 0px;
+  height: 40px;
+  overflow: hidden;
+  background-color: white;
+
+  text-align: center;
+}
+.footer a {
+  color: black;
+  padding: 7px;
+  text-decoration: none;
+}
+.footer a:hover {
+  background-color: black;
+  color: white;
+  /* border-color: 1px black; */
+  border-radius: 15px 15px 15px 15px;
+}

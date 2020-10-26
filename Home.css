@@ -1,0 +1,113 @@
+.header1 {
+  text-align: center;
+  display: block;
+  color: black;
+  text-decoration: none;
+}
+.flbheader1 {
+  background-color: white;
+  border: 3px solid black;
+  padding: 17px;
+  border-radius: 15px 15px 15px 15px;
+}
+.Menu {
+  list-style-type: fixed;
+  margin: 9px;
+  padding: 10px 0px 0px;
+  height: 40px;
+  overflow: hidden;
+  background-color: white;
+  text-align: center;
+  border-radius: 15px 15px 15px 15px;
+}
+.Menu a {
+  color: black;
+  padding: 7px;
+  text-decoration: none;
+  border-radius: 15px 15px 15px 15px;
+}
+.Menu a:hover {
+  background-color: black;
+  color: white;
+}
+.menucontainer {
+  border-radius: 15px 15px 15px 15px;
+  border: 1px black;
+}
+/* .wrapper { */
+/* width: 40vw;
+  height: 40vw;
+  margin: 7px auto;
+  padding: 7px;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 15px 15px 15px 15px; */
+/* background-image: url("alone.jpeg");
+  backdrop-filter: blur; */
+/* } */
+.wrapper iframe {
+  margin-right: 100px;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  float: left;
+}
+/* img {
+  max-width: 500px;
+  max-height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 15px 15px 15px 15px;
+} */
+.main {
+  text-shadow: 2px 2px white;
+  color: black;
+  text-align: center;
+}
+.main2 {
+  text-shadow: 2px 2px orange;
+  color: black;
+  text-align: center;
+}
+
+.des {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  color: orange;
+}
+#paragraph {
+  color: white;
+  margin: 16px auto;
+  width: 50%;
+  text-align: center;
+}
+.paragraph2 {
+  color: white;
+  text-align: center;
+}
+
+.footer {
+  list-style-type: fixed;
+  /* margin: 9px; */
+  padding: 20px 0px 0px;
+  height: 40px;
+  overflow: hidden;
+  background-color: white;
+  /* float: bottom; */
+  text-align: center;
+}
+.footer a {
+  float: bottom;
+  color: black;
+  padding: 7px;
+  text-decoration: none;
+}
+.footer a:hover {
+  background-color: black;
+  color: white;
+  /* border-color: 1px black; */
+  border-radius: 15px 15px 15px 15px;
+}
